@@ -1,3 +1,5 @@
+[TOC]
+
 # harlan.github.io
 
 
